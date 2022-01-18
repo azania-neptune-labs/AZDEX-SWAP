@@ -1,0 +1,17 @@
+{
+  "name": "azdex",
+  "version": "1.0.0",
+  "description": "Azania decentralised exchange",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "exchane",
+    "non-custodial"
+  ],
+  "author": "Andile Skywalkingzulu Mchunu",
+  "license": "ISC"
+}
