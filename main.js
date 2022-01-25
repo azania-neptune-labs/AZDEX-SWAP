@@ -1,5 +1,5 @@
-const serverUrl = "https://0ysyu5acpfxl.usemoralis.com:2053/server"; //Server url from moralis.io
-const appId = "s4A99JF4qVOxtVfO8ij4wPaXxes49hgBUugWO3Vy"; // Application id from moralis.io
+const serverUrl = "https://q6jlw7rwwydh.usemoralis.com:2053/server"; //Server url from moralis.io
+const appId = "SDH52jwAli3cSvf2fNF8aAIkerdFJbkD01Nacv0P"; // Application id from moralis.io
 //const web3 = await Moralis.enableWeb3();
 //const contract = new web3.eth.Contract(contractAbi, contractAddress);
 let currentTrade = {};
